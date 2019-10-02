@@ -1,10 +1,10 @@
 ---
-title: "Blog for english course - Louis SIMON"
+title: "Blog for english course"
 author : "Louis SIMON"
 ---
 
 * English teacher : Ingrid VAN LANCKER
 * Class name : BAB2 Biology - group 1
 * Academic year : 2019 - 2020
-* Topic : Microbiology 
+* :Topic : Microbiology 
 
