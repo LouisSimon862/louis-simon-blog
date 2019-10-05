@@ -14,6 +14,6 @@ navbar:
 base_url: https://LouisSimon862.github.io/louis-simon-blog/
 collections:
     posts:
-     disqus: louis-simon-blog
+      disqus: louis-simon-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
