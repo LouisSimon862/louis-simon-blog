@@ -1,20 +1,17 @@
 [
   {
-    "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
-    "description": {},
+    "path": "posts/2019-10-02-nom-de-votre-article/",
+    "title": "Article 1 : A Newly Identified Protein May Be the Key to Vanquishing the Common Cold",
+    "description": "Inactivating a specific protein in human cells could immune to a type of viruses",
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Simon Makin",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
-    "categories": [
-      "elephant",
-      "track"
-    ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T11:43:07+02:00"
+    "date": "2019-09-17",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-15T14:12:41+02:00"
   }
 ]
