@@ -7,7 +7,7 @@ author:
   - name: Simon Makin
     url: {}
 date: 09-17-2019
-preview : image/"image article 1"
+preview : https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714
 output:
   distill::distill_article:
     self_contained: false
@@ -15,46 +15,30 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
 ```
 
-## Article
+![SETD3 protein](https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714)
 
-## A Newly Identified Protein May Be the Key to **Vanquishing** the **Common Cold**
-Inactivating this protein in human cells and **mice** **provided** immunity to a range of viruses, but an effective treatment is still a long way off
-
-Defending against viruses is one of the **thorniest** problems in medicine. Vaccines have been a major success story but can still only fend off a fraction of known viruses. They work by “teaching” our immune system to recognize a specific virus so it can mount an effective immune response if it spots that invader in future. Another approach is the use of antivirals, which prevent viruses from replicating and can be used to treat a current infection if administered quickly. Developing safe antivirals is difficult, however, because viruses hijack the host’s own cellular machinery in order to replicate, so interfering can also **harm** host cells.
-
-A problem for both approaches is the huge diversity of viral pathogens. For instance, the viral group responsible for at least half of all cases of the common cold—rhinovirus–has at least 160 different types. Developing more than 100 vaccines to cure one illness is obviously not practical, and in any case, other viruses also cause colds. Complicating matters further, many viruses can mutate in ways that make them resistant to **drugs** or capable of overcoming immunity. All of which is why an important goal in virology is the development of “**broad spectrum**” antivirals that are effective against many viruses simultaneously.
-
-In a study published Monday in Nature Microbiology, microbiologist Jan Carette of Stanford University and his colleagues report they have found a human gene that produces a protein essential to the function of numerous enteroviruses, a genus that includes rhinoviruses. Experiments in human cells and mice showed a range of enteroviruses cannot replicate without this host protein. The work could **pave the way** for antivirals effective against multiple illnesses—including most cases of the common cold—and **sheds new light** on how viruses exploit their host’s own cellular material.  Carette and his colleagues have “done a tour de force here, to find this gene and characterize it,” says Ann Palmenberg, a virologist at the University of Wisconsin-Madison, who provided some advice and materials for the study but was not directly involved in it. “It’s a beautiful piece of work.”
-
-
-Enteroviruses also include poliovirus, coxsackievirus (which causes myocarditis, or heart inflammation) and EV-D68, a virus that has been linked to acute flaccid myelitis. To search for commonalities between these viruses, the researchers used cutting-edge gene-editing technology to inactivate single genes from human cells grown in a lab dish. First they created a bank of cells that each **lacked** a different gene, spanning the whole human genome. Then they infected these cells with two enteroviruses: EV-D68 and a “type-C” rhinovirus called RV-C15. The latter is a fairly newly discovered rhinovirus type that can seriously exacerbate asthma symptoms and increase the risk of infected infants developing asthma and chronic obstructive pulmonary disease. Although they are both enteroviruses, EV-D68 and RV-C15 are relatively distant relations that mostly make use of different host-cell proteins. The team then looked at which genes were missing in cells that continued to flourish after infection, focusing on the few whose absence **thwarted** both viruses. In addition to two genes that produce proteins known to be needed by enteroviruses, one little known one **stood out**: SETD3, which makes a protein of the same name.
-
-Carette and his colleagues next investigated how widely enteroviruses, in general, depend on the protein SETD3. They created cells lacking SETD3 and infected them with seven viruses representative of the different species of human enteroviruses: one of each of the three types of rhinovirus (A, B and C), poliovirus, two types of Coxsackievirus and EV-D68. None of these could flourish in SETD3-deficient cells—their replication rate was reduced 1,000-fold as compared with control cells that possessed the gene. “We could barely detect any virus being replicated in the knockout cells,” Carette says, referring to cells **engineered** not to have the gene. The findings suggest that targeting SETD3 could produce a broadly effective therapeutic. “We really tried to maximize the diversity of enteroviruses we screened for, and [SETD3] was important for all of them; that was quite striking,” Carette says. “I’d be surprised if there are enteroviruses that don’t require this host factor.” This process was done in a widely used cancer cell line, but the team repeated some tests in a cell type that resides in the entrance to the lungs and got similarly impressive results. “For the respiratory viruses, like rhinovirus and EV-D68, the important part is the bronchial epithelial cells, because those are where the virus actually replicates,” Carette says.
-
-Finally, Carette and his team genetically engineered mice that lacked the SETD3 gene. “To our great surprise, if you make mice that lack this SETD3 enzyme, they’re viable and apparently healthy,” he says. They did find one **defect**: the mice had difficulty giving birth. In a recent study, biologist Or Gozani, also at Stanford and co-senior author of the new study, and his colleagues found that, in a process called methylation, the SETD3 protein modifies actin, a protein important in cell shape and division, and muscle contraction. “It seems actin methylation is important for smooth muscle contraction during childbirth,” Carette says. He and his colleagues injected these mice with two enteroviruses—a Coxsackievirus and EV-A71, both of which cause fatal neurological disease involving paralysis and brain inflammation. Mice missing SETD3 appeared immune to both viruses.
-
-The researchers next tried to identify why the viruses need the SETD3 protein. They **ruled out** its normal function (the actin-modifying role), raising hopes that it could be targeted in ways that do not interfere with this function. Beyond that, they only narrowed it down to something to do with replication. Viruses use a combination of their own **components** and parts they **pillage** from the cell to build a “replication complex” that acts like a copy machine. “The virus gets in, but it can’t start making photocopies of itself,” Carette says. “It requires this SETD3 as an essential part of this photocopier.”
-
-There are two possibilities: either the viruses use SETD3 in a unique way, or they co-opt an as yet unknown function of SETD3. The latter possibility means drugs targeting SETD3 could have **unforeseen** side effects. “There’s a long way to go before we’ll know if we can develop an antiviral that targets this protein; we’re talking many years of work,” says microbiologist Vincent Racaniello of Columbia University, who was not involved in the new study. “Just because you can take it out in mice doesn’t mean you could take it out in people.” The only way to know for certain **whether** a drug targeting SETD3 was toxic to humans would be to test it in a small human trial. “And if it is, that’s the end of the story,” Racaniello says. “That really tempers my enthusiasm.”
-
-
-Knowing what the viruses use SETD3 for will largely determine the **likelihood** of this new target leading to effective therapeutics, Palmenberg says. It will answer questions such as what proportion of SETD3 needs to be blocked to stop viruses replicating, and whether that amount applies across many enteroviruses uniformly. This information will determine what a therapeutic would look like, how it would be delivered and whether it will even be **feasible**. “We simply don’t know, because we don’t know why the [virus] binds that protein in the first place,” Palmenberg says.
-
-In addition to tackling such questions, Carette’s team plans to search for drug candidates by screening for chemicals that either stop enteroviruses interacting with SETD3 or degrade the protein. “We have the target but not yet the drug,” he says. “We’re now focusing on that part.” Ultimately, he and his colleagues hope **to circumvent** the problem of viruses developing drug resistance. Traditional antivirals target viral proteins, making them easy for viruses to thwart. “We do it in a slightly more **circumspect** way, where you target a host protein, so the virus cannot simply mutate away the drug-binding site,” Carette says. The approach is known as host-directed therapy, because the treatment alters something in the host that the virus needs to function. “It has the potential to be broad-spectrum, and there’s less chance of developing antiviral resistance,” Carette says. “There’s real enthusiasm for this kind of approach.”
-
-
-
-## Source
+## Source of the article
 
 [Scientific American](https://www.scientificamerican.com/article/a-newly-identified-protein-may-be-the-key-to-vanquishing-the-common-cold/)
+
+[Source of the SETD3 protein picture](https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714)
+
+## PDF file of the article
+
+[Atricle with vocabulary words in evidence](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2Flouis-simon-blog%2F_posts%2F2019-10-02-nom-de-votre-article%2FArticle1%2Bvoc.pdf)
+
+
 
 ## Word count
 
 1406 words
 
 ## Vocabulary 
+
+See in the article PDF file
 
 | Word from the text | Synonym/Definition in English | French translation |
 |-------|---------|--------------|
