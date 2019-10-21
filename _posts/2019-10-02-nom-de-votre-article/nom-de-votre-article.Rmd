@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## PDF file of the article
 
-[Atricle with vocabulary words in evidence](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2Flouis-simon-blog%2F_posts%2F2019-10-02-nom-de-votre-article%2FArticle1%2Bvoc.pdf)
+[Atricle with vocabulary words in evidence](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2Flouis-simon-blog%2F_posts%2F2019-10-02-nom-de-votre-article%2Ffile_show.pdf)
 
 
 
