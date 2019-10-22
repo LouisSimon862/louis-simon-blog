@@ -1,7 +1,7 @@
 ---
 title: "Article 1 : A Newly Identified Protein May Be the Key to Vanquishing the Common Cold"
-description: |
-  Inactivating a specific protein in human cells could immune to a type of viruses
+description: 
+  
 
 author:
   - name: Simon Makin
@@ -18,27 +18,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-![SETD3 protein](https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714)
+![](https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714)
 
-## Source of the article
+[SETD3 protein]()
 
-[Scientific American](https://www.scientificamerican.com/article/a-newly-identified-protein-may-be-the-key-to-vanquishing-the-common-cold/)
+##  I - Source of the article with publication date and word count :
 
-[Source of the SETD3 protein picture](https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714)
+Source of the article : [Scientific American](https://www.scientificamerican.com/article/a-newly-identified-protein-may-be-the-key-to-vanquishing-the-common-cold/)
 
-## PDF file of the article
+URL : https://www.scientificamerican.com/article/a-newly-identified-protein-may-be-the-key-to-vanquishing-the-common-cold/ (17 september 2019)
 
-[Atricle with vocabulary words in evidence](https://github.com/LouisSimon862/louis-simon-blog/blob/master/pdf/Article1%2Bvoc.pdf)
+Word count : 1406 words
 
 
+## II - Vocabulary :
 
-## Word count
-
-1406 words
-
-## Vocabulary 
-
-See in the article PDF file
+See in the article PDF file [Article with vocabulary words in evidence](https://github.com/LouisSimon862/louis-simon-blog/blob/master/pdf/Article1%2Bvoc.pdf)
 
 | Word from the text | Synonym/Definition in English | French translation |
 |-------|---------|--------------|
@@ -64,20 +59,20 @@ See in the article PDF file
 | whether | if | si |
 | likelihood | probability | probabilité |
 | feasible | possible | réalisable |
-| to circuvment something | to bypass something, to avoid something | contourner quelque chose |
+| to circumvent something | to bypass something, to avoid something | contourner quelque chose |
 | circumspect | cautious | prudent |
 
 
 
 
-## Analysis table 
+## III - Analysis table about the study :
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | The microbiologist Jan CARETTE and his colleagues, of Stanford University                        |
-| Published in?                | *Nature Microbiology* (16 september 2019)                                                       |
+| Published in?                | [*Nature Microbiology*](https://www.nature.com/articles/s41564-019-0551-1) (16 september 2019)                                                       |
 | General topic?               |  Common Cold could be vanquished by inactivating a particular protein                      |
-| Procedure/what was examined? | Beforehand, inactivate single genes in human cells. Then, infect those cells with two severals enteroviruses. Next, look at which genes are missing in cells that survived. Finally, test it |
+| Procedure/what was examined? | Beforehand, inactivate single genes in different human cells, spanning the entire genome. Then, infect those cells with two severals enteroviruses. Next, look at which gene is missing in cells that survived. Finally, test it by inactivating this gene in cells and infect those cells with different enteroviruses and look if they survive  |
 | Conclusions/discovery?       |  Enteroviruses need the protein SETD3 for their replication and cells that don't have the gene to code this protein are immune to those viruses      |
 | Remaining questions?         | Will the drug that targets SETD3 be toxic for Human ? |
 
