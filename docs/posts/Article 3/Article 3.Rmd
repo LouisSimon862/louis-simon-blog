@@ -1,0 +1,41 @@
+---
+title: "Article 3"
+description: 
+
+
+author:
+  - name: 
+    url: 
+    date: 10-03-2019
+preview : 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| E.g. To cope with   | To deal with                   |
+|                     | Not too distant future         |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | (insert names and, if possible, professions)                        |
+| Published in?                | (insert date)                                                       |
+| General topic?               |  (summarize the topic in one or two sentences)                      |
+| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
+| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
+| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.

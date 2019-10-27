@@ -1,11 +1,13 @@
 ---
-title: "Article 2"
-description: |
-  A short description of the post.
+title: "Article 2 : 'Damage Suppressor' Protein Protects Adorable Tardigrades ... and Human Cells, Too"
+description: 
+
+
 author:
-  - name: Nicolas Devilez
-    url: {}
-date: 10-15-2019
+  - name: Mindy WEISBERGER
+    url: https://www.livescience.com/author/mindy-weisberger
+    date: 10-03-2019
+preview : https://cdn.mos.cms.futurecdn.net/3S7WyTUtyCPEnYxNAWQMHb-970-80.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,26 +17,46 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](https://cdn.mos.cms.futurecdn.net/3S7WyTUtyCPEnYxNAWQMHb-970-80.jpg)
 
-## Vocabulary 
+[Tardigrade image](https://cdn.mos.cms.futurecdn.net/3S7WyTUtyCPEnYxNAWQMHb-970-80.jpg)
 
-| Words from the text | Synonym/explanation in English |
+## I - Source of the article with publication date and word count :
+
+Source of the article : [Live Science](https://www.livescience.com/tardigrade-protein-radiation-protection.html)
+
+URL : https://www.livescience.com/tardigrade-protein-radiation-protection.html (3 october 2019)
+
+Word count : 636 words
+
+## II - Vocabulary :
+
+See in the article PDF file [Article with vocabulary words in evidence]()
+
+Translation made with [Word Reference](https://www.wordreference.com/)
+
+| Word from the text | Synonym/Definition in English | French translation
 | ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| to decipher |to decode, to read | déchiffrer |
+| to unravel | to find, to discover, to slove | découvrir  |
+| to peer | to look, to examine | examiner |
+| compound | chemical meaning : something made of more than one element | composé |
+| tun state | (tun = barrel) cryptobiotic state | état de dormance |
+| moisture | wetness | humidité |
+| limbo | suspended state, uncertain situation | état temporaire |
+| to be bathed | to be exposed | être baigné, être exposé  |
+| to piece together | to assemble | assembler, réunir |
+| hardiness | durability | robustesse |
 
-## Analysis table 
+## III - Analysis table about the study : 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Researchers                  | Carolina Chavez, Grisel Cruz-Becerra, Jia Fei, George A Kassavetis, James T Kadonaga, all from the Division of Biological Sciences at the University of California, San Diego |
+| Published in?                | [*eLife*](https://elifesciences.org/articles/47682) (1 october 2019)                                                       |
+| General topic?               |  Tardigrade have particular protein, Dsup, that protects it and make it nearly invulnerable |
+| Procedure/what was examined? | (Untold in the article on Live Science, see the original publcation of the study on eLife) Treat the identified protein and then localise it with the "electrophoresis with mobility gel" methods |
+| Conclusions/discovery?       | The protein Dsup binds to chromatin       |
+| Remaining questions?         | / |
 
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 
