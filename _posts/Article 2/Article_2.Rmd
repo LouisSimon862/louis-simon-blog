@@ -6,7 +6,7 @@ description:
 author:
   - name: Mindy WEISBERGER
     url: https://www.livescience.com/author/mindy-weisberger
-    date: 10-03-2019
+    date: 10-3-2019
 preview : https://cdn.mos.cms.futurecdn.net/3S7WyTUtyCPEnYxNAWQMHb-970-80.jpg
 output:
   distill::distill_article:
