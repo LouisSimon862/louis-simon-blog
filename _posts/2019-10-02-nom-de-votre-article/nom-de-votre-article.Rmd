@@ -11,6 +11,12 @@ preview : https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-4
 output:
   distill::distill_article:
     self_contained: false
+categories :
+  - Medecine
+  - Genetics
+  - Resistance
+  - Human
+  - Illness
 ---
 
 ```{r setup, include=FALSE}

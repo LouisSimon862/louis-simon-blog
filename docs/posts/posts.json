@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-11-05-myenglishactivitylog/",
+    "title": "My Englsih Activity Log : M.E.A.L",
+    "description": {},
+    "author": [
+      {
+        "name": "SIMON Louis",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-05",
+    "categories": [
+      "M.E.A.L"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-05T16:34:14+01:00"
+  },
+  {
     "path": "posts/Article 2/",
     "title": "Article 2 : 'Damage Suppressor' Protein Protects Adorable Tardigrades ... and Human Cells, Too",
     "description": {},
@@ -10,9 +27,12 @@
       }
     ],
     "date": "2019-10-03",
-    "categories": [],
+    "categories": [
+      "Resistance",
+      "Animals"
+    ],
     "preview": "https://cdn.mos.cms.futurecdn.net/3S7WyTUtyCPEnYxNAWQMHb-970-80.jpg",
-    "last_modified": "2019-10-31T13:28:13+01:00"
+    "last_modified": "2019-11-05T16:56:11+01:00"
   },
   {
     "path": "posts/2019-10-02-nom-de-votre-article/",
@@ -25,8 +45,14 @@
       }
     ],
     "date": "2019-09-17",
-    "categories": [],
+    "categories": [
+      "Medecine",
+      "Genetics",
+      "Resistance",
+      "Human",
+      "Illness"
+    ],
     "preview": "https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714",
-    "last_modified": "2019-10-30T18:14:30+01:00"
+    "last_modified": "2019-11-05T16:44:42+01:00"
   }
 ]

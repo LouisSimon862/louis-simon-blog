@@ -11,6 +11,9 @@ preview : https://cdn.mos.cms.futurecdn.net/3S7WyTUtyCPEnYxNAWQMHb-970-80.jpg
 output:
   distill::distill_article:
     self_contained: false
+categories :
+  - Resistance
+  - Animals
 ---
 
 ```{r setup, include=FALSE}
