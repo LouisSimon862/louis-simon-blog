@@ -2,11 +2,8 @@ name: "blog-template"
 title: "Louis SIMON's Blog"
 output_dir: "docs"
 icon :
-  image : images/hemoglobin.png
+  image : https://upload.wikimedia.org/wikipedia/commons/3/3d/1GZX_Haemoglobin.png
 navbar:
-  left :
-    logo :
-      image : images/hemoglobin.png
   right:
     - text: "Home"
       href: index.html
