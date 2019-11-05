@@ -1,7 +1,6 @@
 ---
 title: "Article 1 : A Newly Identified Protein May Be the Key to Vanquishing the Common Cold"
 description: 
-  
 
 author:
   - name: Simon Makin
