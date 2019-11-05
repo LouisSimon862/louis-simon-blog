@@ -1,9 +1,11 @@
 name: "blog-template"
 title: "Louis SIMON's Blog"
 output_dir: "docs"
-icon :
-  image : https://upload.wikimedia.org/wikipedia/commons/3/3d/1GZX_Haemoglobin.png
+favicon : "Images/hemoglobin.png"
 navbar:
+  left :
+    logo :
+      image : "Images/hemoglobin.png"
   right:
     - text: "Home"
       href: index.html
@@ -18,6 +20,6 @@ collections:
       share: [twitter, linkedin, facebook]
 output:
   distill::distill_article :
-    css : docs/styles.css
+    css : docs/color/styles.css
     
  
