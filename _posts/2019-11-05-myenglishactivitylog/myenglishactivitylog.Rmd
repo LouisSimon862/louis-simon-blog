@@ -1,7 +1,5 @@
 ---
 title: "My Englsih Activity Log : M.E.A.L"
-description: |
-
 author:
   - name: SIMON Louis
     url: 
