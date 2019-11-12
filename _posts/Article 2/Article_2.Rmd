@@ -1,7 +1,5 @@
 ---
 title: "Article 2 : 'Damage Suppressor' Protein Protects Adorable Tardigrades ... and Human Cells, Too"
-description: 
-
 author:
   - name: Mindy WEISBERGER
     url: https://www.livescience.com/author/mindy-weisberger
