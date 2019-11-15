@@ -1,5 +1,26 @@
 [
   {
+    "path": "posts/2019-11-15-article3/",
+    "title": "Article 3 : A tooth fossil shows Gigantopithecus’ close ties to modern orangutans",
+    "description": {},
+    "author": [
+      {
+        "name": "Bruce BOWER",
+        "url": "https://www.sciencenews.org/author/bruce-bower"
+      }
+    ],
+    "date": "2019-11-13",
+    "categories": [
+      "Animals",
+      "Paleontology",
+      "Fossils",
+      "Genetics",
+      "Archeology"
+    ],
+    "preview": "https://www.sciencenews.org/wp-content/uploads/2019/11/111219_BB_ancient-ape_feat-1028x579.jpg",
+    "last_modified": "2019-11-15T16:04:34+01:00"
+  },
+  {
     "path": "posts/2019-11-05-myenglishactivitylog/",
     "title": "My Englsih Activity Log : M.E.A.L",
     "description": {},
@@ -14,7 +35,7 @@
       "M.E.A.L"
     ],
     "preview": {},
-    "last_modified": "2019-11-12T09:14:34+01:00"
+    "last_modified": "2019-11-15T16:03:31+01:00"
   },
   {
     "path": "posts/Article 2/",
@@ -32,7 +53,7 @@
       "Animals"
     ],
     "preview": "https://cdn.mos.cms.futurecdn.net/3S7WyTUtyCPEnYxNAWQMHb-970-80.jpg",
-    "last_modified": "2019-11-12T09:14:34+01:00"
+    "last_modified": "2019-11-15T16:04:52+01:00"
   },
   {
     "path": "posts/2019-09-17-article-1/",
@@ -41,7 +62,7 @@
     "author": [
       {
         "name": "Simon Makin",
-        "url": {}
+        "url": "https://twitter.com/SimonMakin"
       }
     ],
     "date": "2019-09-17",
@@ -53,6 +74,6 @@
       "Illness"
     ],
     "preview": "https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714",
-    "last_modified": "2019-11-12T09:45:09+01:00"
+    "last_modified": "2019-11-15T16:05:14+01:00"
   }
 ]

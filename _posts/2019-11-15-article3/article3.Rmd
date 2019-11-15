@@ -1,0 +1,70 @@
+---
+title: "Article 3 : A tooth fossil shows Gigantopithecus’ close ties to modern orangutans"
+description: 
+author:
+  - name: Bruce BOWER
+    url: https://www.sciencenews.org/author/bruce-bower
+date: 11-13-2019
+preview : https://www.sciencenews.org/wp-content/uploads/2019/11/111219_BB_ancient-ape_feat-1028x579.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+categories :
+  - Animals
+  - Paleontology
+  - Fossils
+  - Genetics
+  - Archeology
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://www.sciencenews.org/wp-content/uploads/2019/11/111219_BB_ancient-ape_feat-1028x579.jpg)
+
+[A jaw fossil](https://www.sciencenews.org/wp-content/uploads/2019/11/111219_BB_ancient-ape_feat-1028x579.jpg)
+
+## I - Source of the article with publication date and word count
+
+Source of the article : [*Science News*](https://www.sciencenews.org/article/tooth-fossil-shows-gigantopithecus-close-ties-modern-orangutans)
+
+URL : https://www.sciencenews.org/article/tooth-fossil-shows-gigantopithecus-close-ties-modern-orangutans (13 november 2019)
+ 
+Word count : 705 words
+ 
+## II - Vocabulary
+
+See in the article PDF file [Article with vocabulary words in evidence]()
+
+Translation made with [Word Reference](https://www.wordreference.com/)
+
+| Word from the text | Synonym/Definition in English | French translation |
+| ------------------- | ------------------------------ |
+| to tie to | to attach to | avoir un lien avec, être lié avec |
+| lower jaw | (>< higher jaw) part of the mouth | mâchoire inférieure |
+| forerunners | predecessors | prédécesseurs |
+| roots | origins, sources | racines, origines |
+| to be aptly named | to be named suitably | bien porter son nom |
+| to peg | to secure with pegs, to hang | rattacher, fixer |
+| stems | stalk of a plant | tige |
+| tubers | stem or root that is underground | tubercule |
+| assumption | supposition | hypothèse |
+| thin evidence | weak proof | indice faible |
+| compelling | persuasive | irréfutable |
+| enamel | coating of the teeth | émail |
+| to untangle | to clarify | résoudre, éclaircir, démêmler | 
+| insights | understanding, knowledge | idée, compréhension, vision |
+| such | this kind of | de tel(le)(s) |
+
+## III - Analysis table about the study
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | The bioarchaeologist Frido Welker and his colleagues, of the University of Copenhagen  |
+| Published in ?                |  [*Nature*](https://www.nature.com/articles/s41586-019-1728-8.epdf?referrer_access_token=4pKJzhkqjzULKPiRK7EHbNRgN0jAjWel9jnR3ZoTv0PP72B16iuotO9r1GCwA8ZV-Azg7jC7qeldz9uqEKDvvyWU7nFjoLaNnxLupyB8MQDlu8MvCyjUSicXdDVoPfTdPcdYaE99W1x_DFoWL30a5DYQDM-5H4uE8rUjgxESqfBwQ6-0-ic1kUlOQXmnNH_LE_yW5SjHePWdPmVG5KwJ8F_xZJXdsM0WlBPZUROqrvNaty8Rz-XxXSOqhL0ycuxg4lo_i3P-E4ozas7DFI6P7A4Sa5og36bNEjo-VYb6NvA%3D&tracking_referrer=www.sciencenews.org) (13 november 2019)              |
+| General topic ?               | Proteins in a tooth fossils shows that *Gigantopithecus blacki* ties to modern orangutans  |
+| Procedure/what was examined ? | First, retrieve proteins and their amino acids sequences from a *G. blacki* tooth. Then, compare it to living primates. |  
+| Conclusions/discovery ?       | Orangutans is the closest living primate to *G. blacki*. They have a close evolutionary link.   |
+| Remaining questions ?         | Clarify the evolutionary position of *G. blacki* / How and why orangutans died out in China but still live on two Indonesian islands ?|
+

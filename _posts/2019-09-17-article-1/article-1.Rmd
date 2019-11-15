@@ -4,7 +4,7 @@ description:
 
 author:
   - name: Simon Makin
-    url: {}
+    url: https://twitter.com/SimonMakin
 date: 09-17-2019
 preview : https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714
 output:
@@ -27,16 +27,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Rhinovirus image](https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714)
 
-##  I - Source of the article with publication date and word count :
+##  I - Source of the article with publication date and word count
 
-Source of the article : [Scientific American](https://www.scientificamerican.com/article/a-newly-identified-protein-may-be-the-key-to-vanquishing-the-common-cold/)
+Source of the article : [*Scientific American*](https://www.scientificamerican.com/article/a-newly-identified-protein-may-be-the-key-to-vanquishing-the-common-cold/)
 
 URL : https://www.scientificamerican.com/article/a-newly-identified-protein-may-be-the-key-to-vanquishing-the-common-cold/ (17 september 2019)
 
 Word count : 1399 words
 
 
-## II - Vocabulary :
+## II - Vocabulary
 
 See in the article PDF file [Article with vocabulary words in evidence](https://github.com/LouisSimon862/louis-simon-blog/blob/master/pdf/Article1%2Bvoc.pdf)
 
@@ -72,7 +72,7 @@ Translation made with [Word Reference](https://www.wordreference.com/)
 
 
 
-## III - Analysis table about the study :
+## III - Analysis table about the study
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |

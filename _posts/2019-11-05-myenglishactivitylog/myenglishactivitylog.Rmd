@@ -24,7 +24,8 @@ knitr::opts_chunk$set(echo = FALSE)
 * The Dead Don't Die (Movie)
 * Family Guy (Animated serie)
 * Zoo (Serie)
-* The End Of The F***ing World (serie)
+* The End Of The F***ing World (Serie)
+* The Mandalorian (Serie)
 
 # Podcasts and videos
 
