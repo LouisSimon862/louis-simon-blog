@@ -4,6 +4,7 @@ author:
   - name: SIMON Louis
     url: 
 date: 11-05-2019
+preview: Images/ Image MEAL.PNG
 output:
   distill::distill_article:
     self_contained: false
