@@ -30,6 +30,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * The End Of The F***ing World (Serie)
 * The Mandalorian (Serie)
 * Joker (Movie)
+* Rick and Morty (Animated serie)
 
 # Podcasts and videos
 
@@ -38,7 +39,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Videogames
 
-* I have played videogames in english like "God of War" and "Red Dead Redemption" for exemple
+* I have played videogames in english like "God of War" and "Red Dead Redemption" for example
 
 # Applications 
 
