@@ -26,6 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * Zoo (Serie)
 * The End Of The F***ing World (Serie)
 * The Mandalorian (Serie)
+* Joker (Movie)
 
 # Podcasts and videos
 
