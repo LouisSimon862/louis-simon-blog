@@ -5,7 +5,7 @@ favicon : "Images/hemoglobin.png"
 navbar:
   left :
     logo :
-      image : "Images/hemoglobin.png"
+      image : "Images/alphahelix.png"
   right:
     - text: "Home"
       href: index.html
