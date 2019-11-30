@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](https://cdn.mos.cms.futurecdn.net/3S7WyTUtyCPEnYxNAWQMHb-970-80.jpg)
 
-[Tardigrade image](https://cdn.mos.cms.futurecdn.net/3S7WyTUtyCPEnYxNAWQMHb-970-80.jpg)
+[*Tardigrade image*](https://cdn.mos.cms.futurecdn.net/3S7WyTUtyCPEnYxNAWQMHb-970-80.jpg)
 
 ## I - Source of the article with publication date and word count 
 

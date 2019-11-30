@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714)
 
-[Rhinovirus image](https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714)
+[*Rhinovirus image*](https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714)
 
 ##  I - Source of the article with publication date and word count
 

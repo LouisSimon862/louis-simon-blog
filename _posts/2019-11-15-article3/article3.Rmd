@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](https://www.sciencenews.org/wp-content/uploads/2019/11/111219_BB_ancient-ape_feat-1028x579.jpg)
 
-[A jaw fossil](https://www.sciencenews.org/wp-content/uploads/2019/11/111219_BB_ancient-ape_feat-1028x579.jpg)
+[*A jaw fossil*](https://www.sciencenews.org/wp-content/uploads/2019/11/111219_BB_ancient-ape_feat-1028x579.jpg)
 
 ## I - Source of the article with publication date and word count
 

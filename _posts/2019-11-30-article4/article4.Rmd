@@ -1,0 +1,72 @@
+---
+title: "Article 4 : Key Photosynthesis Complex Viewed in Spinach"
+description:
+author: 
+  - name: Emily WILLINGHAM
+    url: https://twitter.com/ejwillingham
+date: 11-30-2019
+preview : https://static.scientificamerican.com/sciam/assets/Image/2019/b6f%5B3%5D.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+categories :
+  - Food
+  - Photosynthesis
+  - Plants
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://static.scientificamerican.com/sciam/assets/Image/2019/b6f%5B3%5D.jpg)
+
+[*Cytochrome b6f*](https://static.scientificamerican.com/sciam/assets/Image/2019/b6f%5B3%5D.jpg)
+
+Credit : University of Sheffield
+
+## I - Source of the article with publication date and word count
+
+Source of the article : [*Scientific American*](https://www.scientificamerican.com/article/key-photosynthesis-complex-viewed-in-spinach/)
+
+URL : https://www.scientificamerican.com/article/key-photosynthesis-complex-viewed-in-spinach/ (13 november 2019)
+ 
+Word count : 695 words
+ 
+## II - Vocabulary
+
+See in the article PDF file [Article with vocabulary words in evidence]()
+
+Translation made with [Word Reference](https://www.wordreference.com/)
+
+| Word from the text | Synonym/Definition in English | French translation |
+| ------------------- | ------------------------------ |
+| close-up | in photograpy : very near | gros plan, détaillé |
+| cog | object in a working system | rouage |
+| to enhance | to improve | améliorer |
+| food-crop | food culture | culture de nourriture |
+| yield | in agriculture : production | récolte |
+| bottleneck | figurative : closer place  | goulot d'étranglement |
+| slowdown | reducing speed | ralentisement |
+| tweaks | modification in settings | amélioration dans les réglages |
+| to fire up | to start, to stimulate | innitier, démarrer |
+| to handle | to deal with | gérer, s'occuper de |
+| to commit | to perpatrate, to transfer | transférer, renvoyer, confier |
+| fate | destiny, possibility | sort, destin |
+| to beam | to shine | rayonner | 
+| sample | a test, a representative piece | échantillon |
+| to take the brakes off | to allow to continue | enlever le frein |
+
+## III - Analysis table about the study
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Matt Johnson, a biochemist at the University of Sheffield (England), and his team |
+| Published in ?                |  [*Nature*](https://www.nature.com/articles/s41586-019-1746-6.epdf?referrer_access_token=swzLToSQWK2INJkh6nZUotRgN0jAjWel9jnR3ZoTv0NXtf294oF5wGgaPC8R9APTqdbkNEMfLuKuMfiA8R7pka0OANBRo2nIQA8Lz1NE7mA5z1lCuRtt9PP5__GEFJsH6WEQFs3PKmli9UvilmV-1d7C8Ze3L0zlq_qCD0fyQBf5Bkh6dg3-57Jc8RpDbL8IpLYdoo9-4TJ6_KeZ-DJXJpPzRZd1J-8drfIgmWt09xPHRMXvtP6mqGb-7JyDCiqxMr3DxDG_V4oNEzI1bdSNGg%3D%3D&tracking_referrer=www.scientificamerican.com) (13 november 2019)              |
+| General topic ?               | New images of the structure of the cytochrome b6f were taken |
+| Procedure/what was examined ? | The procedure is cryo-EM. First, purify the complex from everyday spinach leaves. Place it in a solution and place the olution on a waffled carbon grid. Plunge it into liquid ethane cooled to –190 degrees Celsius. Finally, beam electrons on the sample and the three-dimensional image can be traced. |  
+| Conclusions/discovery ?       | Pictures were taken of cytochrome b6f in differents states of the process, showing the shape changes. It clarifies the working of photosynthesis |
+| Remaining questions ?         | How to use these researches in the future to improve the production of food and be sure there will be enough for the increasing population |
+
+
+
