@@ -1,5 +1,5 @@
 ---
-title: "What proteins can be useful to in today's society ?"
+title: "What proteins can be useful for in today's society ?"
 site: distill::distill_website
 listing: posts
 ---
