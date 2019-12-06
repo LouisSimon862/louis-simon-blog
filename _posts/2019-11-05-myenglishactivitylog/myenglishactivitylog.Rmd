@@ -23,6 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Tv series and movies in English
 
 ### Before september 2019
+* Love, Death and Robots (Season 1)
 * Peaky Blinders (Season 1 & 2)
 * Black Mirror (Season 1 to 5)
 * Family Guy (Season 1 to 15)
