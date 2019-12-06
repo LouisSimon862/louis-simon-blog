@@ -6,5 +6,5 @@ author : "Louis SIMON"
 * English teacher : Ingrid VAN LANCKER
 * Class name : BAB2 Biology - group 1
 * Academic year : 2019 - 2020
-* Topic : Proteins 
+* Topic : Using proteins in today's society
 

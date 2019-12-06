@@ -20,28 +20,47 @@ knitr::opts_chunk$set(echo = FALSE)
 
   From now on, you will use this article to include every single activity that you do in English in a chronological order (e.g. reading a book in English, watching TV shows and series in English, going to an English Evening in Mons, travelling to an English-speaking country, playing games in English such as the pretty exciting game LyricsTraining, etc.). You can even write a few lines about what you’ve watched/read/done and recommend certain things to your friends. The sky’s the limit! We value personal initiative and we will be happy to read whatever you have to offer.
 
-# Tv series and movies
- 
-* Peaky Blinders (Serie)
-* Black Mirror (Serie)
-* The Dead Don't Die (Movie)
-* Family Guy (Animated serie)
-* Zoo (Serie)
-* The End Of The F***ing World (Serie)
-* The Mandalorian (Serie)
-* Joker (Movie)
-* Rick and Morty (Animated serie)
+# Tv series and movies in English
 
-# Podcasts and videos
+### Before september 2019
+* Peaky Blinders (Season 1 & 2)
+* Black Mirror (Season 1 to 5)
+* Family Guy (Season 1 to 15)
+* The End Of The F***ing World (Season 1)
+* Rick and Morty (Season 1 to 3)
 
+### September 2019
+* The Dead Don't Die
+* Zoo (Season 1 to 3)
+* Peaky Blinders (Season 3 & 4)
+
+### October 2019
+* Joker
+* Peaky Blinders (Season 5)
+* Family guy (Season 16 & 17)
+
+### November 2019
+* The Mandalorian (Season 1)
+* The Clone Wars (Season 1)
+* * The End Of The F***ing World (Season 2)
+
+# Podcasts and videos in English
+
+### Regulary
 * Podcasts by a videomakers band called Smosh (the podcasts are named Smoshcasts and are available on streamplatforms (like Apple Music and Spotify) or on Youtube )
 * Various videos and sketches on Youtube from american or briton videomakers
 
-# Videogames
+# Videogames in English
 
-* I have played videogames in english like "God of War" and "Red Dead Redemption" for example
+### Before September 2019
+* God of War
+* Red Dead Redemption
 
-# Applications 
+### November 2019
+* Star Wars Jedi : Fallen Order
 
-* I have downloaded the "BBC News" application so that I can regulary check the news
-* I have downloaded the "Word Reference" application which is a dictionnary
+# Applications in English
+
+### September 2019
+* "BBC News" application so that I can regulary check the news
+* "Word Reference" application which is a dictionnary
