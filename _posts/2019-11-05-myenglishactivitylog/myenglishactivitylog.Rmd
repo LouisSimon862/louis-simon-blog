@@ -42,8 +42,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### November 2019
 * The Mandalorian (Season 1)
-* The Clone Wars (Season 1)
 * The End Of The F***ing World (Season 2)
+* The Clone Wars (Season 1)
 
 ### December 2019
 * The Irishman
