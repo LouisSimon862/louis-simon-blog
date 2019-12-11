@@ -1,0 +1,59 @@
+---
+title: "Article 5 : This protein is how creatures sense cold"
+description:
+author: 
+  - name: Science News
+    url: https://www.sciencedaily.com/
+date: 12-11-2019
+preview : https://phys.org/newman/gfx/news/hires/2016/56e9b84c79118.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+categories :
+  - Animals
+  - Genetics
+---
+
+![](https://phys.org/newman/gfx/news/hires/2016/56e9b84c79118.jpg)
+
+[*Caenorhabditis elegans*](https://phys.org/newman/gfx/news/hires/2016/56e9b84c79118.jpg)
+
+
+## I - Source of the article with publication date and word count
+
+Source of the article : [*Science Daily*](https://www.sciencedaily.com/releases/2019/08/190829150803.htm)
+
+URL : https://www.sciencedaily.com/releases/2019/08/190829150803.htm (29 august 2019)
+ 
+Word count : 668 words
+
+## II - Vocabulary
+
+See in the article PDF file [Article with vocabulary words in evidence]()
+
+Translation made with [Word Reference](https://www.wordreference.com/)
+
+| Word from the text | Synonym/Definition in English | French translation |
+| ------------------- | ------------------------------ |
+| to pinpoint | to determine, to show exactly | identifier |
+| avoidance | staying away from something | évitement |
+| well-mapped | well known, well represented | bien cartographié |
+| lifespan | duration of the life | temps de vie |
+| biased | uncorrect, non objective | biaisé |
+| to dip | to fall, to decline | diminuer, chuter |
+| thus | therfore, consequentely | par conséquent |
+| difference between cold and cool | cold means very low but cool means moderate | cold = froid, cool = frais |
+
+## III - Analysis table about the study
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Shawn Xu and his team of University of Michigan; researchers from University of Science and Technology in China and University of Michigan; researchers of University of Science and Technology; researchersof the Ulsan National Institute of Science and Technology in South Korea. |
+| Published in ?                |  [*Cell*](https://www.cell.com/cell/fulltext/S0092-8674(19)30833-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867419308335%3Fshowall%3Dtrue) (29 august 2019)              |
+| General topic ?               | A protein is responsible of the animals to feel the coming winter |
+| Procedure/what was examined ? | Look a thousand genetic variations to find which gene is responsible of the perception of cold. Add different versions of this gene to worms (Caenorhabditis elegans) and mammalian cells that are cold-insensitive and look at their behavior. |  
+| Conclusions/discovery ?       | GLR-3 protein is necessary to be sensitive to cold. The gene glr-3 makes the receptor for this protein and the worms that doesn't have it are cold-insensitive. |
+| Remaining questions ?         | / |
+
+
+
