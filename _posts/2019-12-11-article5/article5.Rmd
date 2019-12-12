@@ -34,7 +34,7 @@ See in the article PDF file [Article with vocabulary words in evidence](https://
 Translation made with [Word Reference](https://www.wordreference.com/)
 
 | Word from the text | Synonym/Definition in English | French translation |
-| ------------------- | ------------------------------ |
+| ------------------- | ------------------|------------ |
 | to pinpoint | to determine, to show exactly | identifier |
 | avoidance | staying away from something | évitement |
 | well-mapped | well known, well represented | bien cartographié |
