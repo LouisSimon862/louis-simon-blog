@@ -47,6 +47,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### December 2019
 * The Irishman
+* Brooklyn Nine-Nine (Season 1 to 4)
+
+### January 2020
+* Brooklyn Nine-Nine (Season 5 & 6)
+* Fury
+* Lost in Space
+* Age of Tanks
 
 # Podcasts and videos in English
 
