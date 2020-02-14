@@ -12,10 +12,7 @@ output:
     self_contained: false
 categories :
   - Medecine
-  - Genetics
   - Resistance
-  - Human
-  - Illness
 ---
 
 ```{r setup, include=FALSE}

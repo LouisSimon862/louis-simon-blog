@@ -2,7 +2,7 @@
 title: "Article 5 : This protein is how creatures sense cold"
 description:
 author: 
-  - name: Science News
+  - name: Science Daily
     url: https://www.sciencedaily.com/
 date: 12-11-2019
 preview : https://phys.org/newman/gfx/news/hires/2016/56e9b84c79118.jpg
@@ -11,7 +11,6 @@ output:
     self_contained: false
 categories :
   - Animals
-  - Genetics
 ---
 
 ![](https://phys.org/newman/gfx/news/hires/2016/56e9b84c79118.jpg)

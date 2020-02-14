@@ -1,5 +1,5 @@
 ---
-title: "What is it useful for to study proteins today ?"
+title: "Discovers made with studying proteins"
 site: distill::distill_website
 listing: posts
 ---

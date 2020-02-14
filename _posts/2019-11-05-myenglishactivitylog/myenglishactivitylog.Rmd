@@ -52,8 +52,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ### January 2020
 * Brooklyn Nine-Nine (Season 5 & 6)
 * Fury
-* Lost in Space
+* Lost in Space (Season 1 & 2)
 * Age of Tanks
+
+### February 2020
+* Big Mouth (Season 1)
+* The Witcher (Season 1)
+* Brooklyn Nine-Nine (Season 7)
 
 # Podcasts and videos in English
 

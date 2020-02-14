@@ -11,9 +11,6 @@ output:
     self_contained: false
 categories :
   - Animals
-  - Paleontology
-  - Fossils
-  - Genetics
   - Archeology
 ---
 

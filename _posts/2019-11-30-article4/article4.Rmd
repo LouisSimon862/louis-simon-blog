@@ -10,8 +10,6 @@ output:
   distill::distill_article:
     self_contained: false
 categories :
-  - Food
-  - Photosynthesis
   - Plants
 ---
 

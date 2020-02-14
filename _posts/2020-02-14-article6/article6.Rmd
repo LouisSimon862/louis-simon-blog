@@ -1,0 +1,60 @@
+---
+title: "Article 6 : Scientists discover mechanisms that protect tapeworms from being digested by their host"
+description:
+author:
+  - name: University of Tyumen
+    url: https://www.utmn.ru/en/
+date: 02-14-2020
+preview : https://scx1.b-cdn.net/csz/news/800/2019/103-scientistsdi.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+categories :
+  - Animals
+  - Resistance
+---
+
+![](https://scx1.b-cdn.net/csz/news/800/2019/103-scientistsdi.jpg)
+
+[*Tapeworm*](https://scx1.b-cdn.net/csz/news/800/2019/103-scientistsdi.jpg)
+
+## I - Source of the article with publication date and word count
+
+Source of the article : [*Phys.org*](https://phys.org/news/2019-10-scientists-mechanisms-tapeworms-digested-host.html)
+
+URL : https://phys.org/news/2019-10-scientists-mechanisms-tapeworms-digested-host.html (22 october 2019)
+ 
+Word count : 494 words
+
+## II - Vocabulary
+
+See in the article PDF file [Article with vocabulary words in evidence]()
+
+Translation made with [Word Reference](https://www.wordreference.com/)
+
+| Word from the text | Synonym/Definition in English | French translation |
+| ------------------- | ------------------|------------ |
+| tapeworm | a long worm that lives in digestive tract | ver solitaire |
+| flat | smooth (level) | plat |
+| several | a few | plusieurs |
+| appartus | system, equipment | système |
+| one of such | one among a large range | une de ces |
+| to break down | to stop, to knock down | détruire, désactiver |
+| ferments | something that make fermentation | gastric juice, enzymes |
+| freshwater | aquatic but doesn't live in saltwater | d'eau douce |
+| pike | a freshwater fish | brochet |
+| homogenate | obtained after homogenization | homogénat |
+| managed to | wanted to, spent their time to | ont réussi à, ont consacré leur temps à |
+| belong to | to be part of | appartenir à, faire partie de |
+| blood clotting | blood coagulation | coagulation du sang |
+
+## III - Analysis table about the study
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Scientists from Tyumen |
+| Published in ?                | In the *Molecular & Biochemical Parasitology* journal (october 2019)             |
+| General topic ?               | How parasite worms protect themselves against digestive enzymes |
+| Procedure/what was examined ? | Produce worms in pike intestines. Then recup the proteins from the worms with homogenizing. Then separate the proteins with the method of liquid chromatography. Select fractions that are the most effective in digestive enzymes inhibition. Then determine the mass of the proteins with polyacrylamide gel electrophoresis method. Finally establish the sequences of the selected proteins and identify it. |  
+| Conclusions/discovery ?       | Proteins that protect the worms from host's digestive enzymes work with inhibiting the ferments. Those proteins have a role in blood coagulation and they weaken the host's immune systrm. |
+| Remaining questions ?         | / |
