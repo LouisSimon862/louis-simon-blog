@@ -1,5 +1,5 @@
 ---
-title: "Discovers made with studying proteins"
+title: "Discoveries made that involve proteins"
 site: distill::distill_website
 listing: posts
 ---

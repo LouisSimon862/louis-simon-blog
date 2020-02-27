@@ -1,12 +1,29 @@
 [
   {
+    "path": "posts/2020-02-27-article7/",
+    "title": "Coronavirus 'spike' protein just mapped, leading way to vaccine",
+    "description": {},
+    "author": [
+      {
+        "name": "Louis SIMON",
+        "url": "https://louissimon862.github.io/louis-simon-blog/"
+      }
+    ],
+    "date": "2020-02-27",
+    "categories": [
+      "Medecine"
+    ],
+    "preview": "https://cdn.mos.cms.futurecdn.net/x4uU29ASrcttSscDdMf49X-650-80.jpg",
+    "last_modified": "2020-02-27T17:46:39+01:00"
+  },
+  {
     "path": "posts/2020-02-14-article6/",
     "title": "Article 6 : Scientists discover mechanisms that protect tapeworms from being digested by their host",
     "description": {},
     "author": [
       {
-        "name": "University of Tyumen",
-        "url": "https://www.utmn.ru/en/"
+        "name": "Louis SIMON",
+        "url": "https://louissimon862.github.io/louis-simon-blog/"
       }
     ],
     "date": "2020-02-14",
@@ -15,7 +32,7 @@
       "Resistance"
     ],
     "preview": "https://scx1.b-cdn.net/csz/news/800/2019/103-scientistsdi.jpg",
-    "last_modified": "2020-02-14T18:08:07+01:00"
+    "last_modified": "2020-02-27T17:48:21+01:00"
   },
   {
     "path": "posts/2019-12-11-article5/",
@@ -57,8 +74,8 @@
     "description": {},
     "author": [
       {
-        "name": "Bruce BOWER",
-        "url": "https://www.sciencenews.org/author/bruce-bower"
+        "name": "Louis SIMON",
+        "url": "https://louissimon862.github.io/louis-simon-blog/"
       }
     ],
     "date": "2019-11-13",
@@ -67,7 +84,7 @@
       "Archeology"
     ],
     "preview": "https://www.sciencenews.org/wp-content/uploads/2019/11/111219_BB_ancient-ape_feat-1028x579.jpg",
-    "last_modified": "2020-02-14T17:51:48+01:00"
+    "last_modified": "2020-02-27T16:31:21+01:00"
   },
   {
     "path": "posts/2019-11-05-myenglishactivitylog/",
@@ -92,8 +109,8 @@
     "description": {},
     "author": [
       {
-        "name": "Mindy WEISBERGER",
-        "url": "https://www.livescience.com/author/mindy-weisberger"
+        "name": "Louis SIMON",
+        "url": "https://louissimon862.github.io/louis-simon-blog/"
       }
     ],
     "date": "2019-10-03",
@@ -102,7 +119,7 @@
       "Animals"
     ],
     "preview": "https://cdn.mos.cms.futurecdn.net/3S7WyTUtyCPEnYxNAWQMHb-970-80.jpg",
-    "last_modified": "2020-02-14T17:51:43+01:00"
+    "last_modified": "2020-02-27T16:30:42+01:00"
   },
   {
     "path": "posts/2019-09-17-article-1/",

@@ -1,0 +1,59 @@
+---
+title: "Coronavirus 'spike' protein just mapped, leading way to vaccine"
+author:
+  - name: Louis SIMON
+    url: https://louissimon862.github.io/louis-simon-blog/
+date: 02-27-2020
+preview : https://cdn.mos.cms.futurecdn.net/x4uU29ASrcttSscDdMf49X-650-80.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+categories :
+  - Medecine
+  
+---
+
+![](https://cdn.mos.cms.futurecdn.net/x4uU29ASrcttSscDdMf49X-650-80.jpg)
+
+[*SARS-2-CoV virus's "spike" protein*](https://cdn.mos.cms.futurecdn.net/x4uU29ASrcttSscDdMf49X-650-80.jpg)
+
+
+## I - Source of the article with publication date and word count
+
+Source of the article : [*Live Science*](https://www.livescience.com/coronavirus-spike-protein-structure.html)
+
+URL : https://www.livescience.com/coronavirus-spike-protein-structure.html (19 February 2020)
+ 
+Word count : 760 words
+
+## II - Vocabulary
+
+See in the article PDF file [Article with vocabulary words in evidence]()
+
+Translation made with [Word Reference](https://www.wordreference.com/)
+
+| Word from the text | Synonym/Definition in English | French translation |
+| ------------------- | ------------------|------------ |
+| spike | pointed object | pointe |
+| to be racing | to be in a hurry | se dépêcher, faire la course |
+| to figure out | solve | résoudre |
+| though | even if | même si |
+| doorway | entrance, way | entrée de porte, passerelle |
+| to fuse | join together, become one piece | fusionner |
+| lab dish | lab container | vaiselle, récipient de laboratoire |
+| forward | progressing, towards the front | en avant |
+| to behave | to act | se comporter |
+
+## III - Analysis table about the study
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | An associate professor of molecular biosciences at the University of Texas at Austin, Jason McLellan, and his team |
+| Published in ?                |  [*Science*](https://science.sciencemag.org/content/early/2020/02/19/science.abb2507/tab-pdf) (19 February 2020)              |
+| General topic ?               | A key protein for the SARS-Cov-2 coronavirus to infect human cells |
+| Procedure/what was examined ? | First, using the earlier published virus's genome, identify the specific genes that code for the protein and send it to a lab that create those genes. Then, inject the genes in mammalian cells that produce spike proteins. Finally, create the protein's 3D map, using the cryogenic electron microscopy method. |  
+| Conclusions/discovery ?       | They visualised the 3D map of the virus's spike protein, and so all visualised the location of all the atoms. It will be useful to develop a vaccine. |
+| Remaining questions ?         | Could just the protein itself be an efficient vaccine or not ? |
+
+
+

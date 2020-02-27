@@ -1,9 +1,8 @@
 ---
 title: "Article 3 : A tooth fossil shows Gigantopithecus’ close ties to modern orangutans"
-description: 
 author:
-  - name: Bruce BOWER
-    url: https://www.sciencenews.org/author/bruce-bower
+  - name: Louis SIMON
+    url: https://louissimon862.github.io/louis-simon-blog/
 date: 11-13-2019
 preview : https://www.sciencenews.org/wp-content/uploads/2019/11/111219_BB_ancient-ape_feat-1028x579.jpg
 output:

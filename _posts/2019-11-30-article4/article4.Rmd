@@ -1,9 +1,8 @@
 ---
 title: "Article 4 : Key Photosynthesis Complex Viewed in Spinach"
-description:
 author: 
-  - name: Emily WILLINGHAM
-    url: https://twitter.com/ejwillingham
+  - name: Louis SIMON
+    url: https://louissimon862.github.io/louis-simon-blog/
 date: 11-30-2019
 preview : https://static.scientificamerican.com/sciam/assets/Image/2019/b6f%5B3%5D.jpg
 output:

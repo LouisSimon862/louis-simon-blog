@@ -1,10 +1,8 @@
 ---
 title: "Article 1 : A Newly Identified Protein May Be the Key to Vanquishing the Common Cold"
-description: 
-
 author:
-  - name: Simon Makin
-    url: https://twitter.com/SimonMakin
+  - name: Louis SIMON
+    url: https://louissimon862.github.io/louis-simon-blog/
 date: 09-17-2019
 preview : https://static.scientificamerican.com/sciam/cache/file/DC020B9F-C8B4-44D4-B0F1DB5DD3C5DB4B_source.jpg?w=590&h=800&A7826A59-A55D-4ED5-AB2696D9C8BFC714
 output:

@@ -1,9 +1,8 @@
 ---
 title: "Article 6 : Scientists discover mechanisms that protect tapeworms from being digested by their host"
-description:
 author:
-  - name: University of Tyumen
-    url: https://www.utmn.ru/en/
+  - name: Louis SIMON
+    url: https://louissimon862.github.io/louis-simon-blog/
 date: 02-14-2020
 preview : https://scx1.b-cdn.net/csz/news/800/2019/103-scientistsdi.jpg
 output:
@@ -56,5 +55,5 @@ Translation made with [Word Reference](https://www.wordreference.com/)
 | Published in ?                | In the *Molecular & Biochemical Parasitology* journal (october 2019)             |
 | General topic ?               | How parasite worms protect themselves against digestive enzymes |
 | Procedure/what was examined ? | Produce worms in pike intestines. Then recup the proteins from the worms with homogenizing. Then separate the proteins with the method of liquid chromatography. Select fractions that are the most effective in digestive enzymes inhibition. Then determine the mass of the proteins with polyacrylamide gel electrophoresis method. Finally establish the sequences of the selected proteins and identify it. |  
-| Conclusions/discovery ?       | Proteins that protect the worms from host's digestive enzymes work with inhibiting the ferments. Those proteins have a role in blood coagulation and they weaken the host's immune systrm. |
+| Conclusions/discovery ?       | Proteins that protect the worms from host's digestive enzymes work with inhibiting the ferments. Those proteins have a role in blood coagulation and they weaken the host's immune system. |
 | Remaining questions ?         | / |
