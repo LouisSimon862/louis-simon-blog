@@ -1,0 +1,66 @@
+---
+title: "Article 8 : How plants sound the alarm about danger"
+author:
+  - name: Louis SIMON
+    url: https://louissimon862.github.io/louis-simon-blog/
+date: 03-15-2020
+preview : https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jasminum_grandiflorum.jpg/1200px-Jasminum_grandiflorum.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+categories :
+  - Plants
+  - Resistance
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jasminum_grandiflorum.jpg/1200px-Jasminum_grandiflorum.jpg)
+
+[*Jasminum grandiflorum*](https://en.wikipedia.org/wiki/Jasmonate)
+
+## I - Source of the article with publication date and word count
+
+Source of the article : [*Science Daily*](https://www.sciencedaily.com/releases/2020/03/200313155308.htm)
+
+URL : https://www.sciencedaily.com/releases/2020/03/200313155308.htm (13 march 2020)
+ 
+Word count : 729 words
+ 
+## II - Vocabulary
+
+See in the article PDF file [Article with vocabulary words in evidence]()
+
+Translation made with [Word Reference](https://www.wordreference.com/)
+
+| Word from the text | Synonym/Definition in English | French translation |
+| ------------------- | ------------------------------ |
+| drought | period without rain | sécheresse |
+| to withstand | to resist | résister |
+| to ensure | to protect, to secure | assurer |
+| throughout | all through | d'un bout à l'autre |
+| to mimic | to imitate | imiter, mimer |
+| soil | dirt, earth, ground | sol, terre |
+| computational | using computer | informatique |
+| pathway | way | voie, manière |
+| inherently | by nature, fundamentally | intrinsèquement, en soi |
+| framework | system | système, structure |
+| to decipher | to decode | déchiffrer |
+| breeding | raising (animals or plants) | élevage |
+| noteworthy | remarquable, important enough to be noticed | notable, marquant |
+
+## III - Analysis table about the study
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Mark Zander and Joseph Ecker from Howard Hughes Medical Institute - Mathew Lewsey, an associate professor at La Trobe University in Melbourne, Australia (worked in Ecker's lab) |
+| Published in ?                |  [*Nature Plants*](https://www.nature.com/articles/s41477-020-0605-7#Sec9) (13 march 2020)              |
+| General topic ?               | How jasmonic acid acts to perceive troubles and counter it |
+| Procedure/what was examined ? | First, plant *Arabidopsis thaliana* seeds (at the start keep it in the dark for three days to simulate the underground). After three days, expose it to jasmonic acid. Then, extrcat DNA and proteins from the plant cells and capture the exact genomic location of the regulators, using antibodies. identify genes that are important for the plant's response to jasmonic acid and for the intercellular communication with other plant hormonal ways, with using computational ways.|  
+| Conclusions/discovery ?       | MYC2 and MYC3 are are very important genes because they code for transcription factor, they regulate the activity of a lot of other genes |
+| Remaining questions ?         | It could be useful to select more resistant crops |
+
+
+

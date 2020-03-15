@@ -56,9 +56,12 @@ knitr::opts_chunk$set(echo = FALSE)
 * Age of Tanks
 
 ### February 2020
-* Big Mouth (Season 1)
+* Big Mouth (Season 1 & 2)
 * The Witcher (Season 1)
 * Brooklyn Nine-Nine (Season 7)
+
+### March 2020
+* 1917
 
 # Podcasts and videos in English
 
