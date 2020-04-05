@@ -36,7 +36,7 @@ See in the article PDF file [Article with vocabulary words in evidence](https://
 Translation made with [Word Reference](https://www.wordreference.com/)
 
 | Word from the text | Synonym/Definition in English | French translation |
-| ------------------- | ------------------------------ |
+| ------------------- | ------------------------------ |----|
 | to tie to | to attach to | avoir un lien avec, être lié avec |
 | lower jaw | (>< higher jaw) part of the mouth | mâchoire inférieure |
 | forerunners | predecessors | prédécesseurs |

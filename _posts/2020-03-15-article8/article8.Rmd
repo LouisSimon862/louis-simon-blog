@@ -36,8 +36,8 @@ See in the article PDF file [Article with vocabulary words in evidence](https://
 Translation made with [Word Reference](https://www.wordreference.com/)
 
 | Word from the text | Synonym/Definition in English | French translation |
-| ------------------- | ------------------------------ |
-| drought | period without rain | sécheresse |
+| -------------------| ------------------------------ |------------|
+| drought            | period without rain           | sécheresse |
 | to withstand | to resist | résister |
 | to ensure | to protect, to secure | assurer |
 | throughout | all through | d'un bout à l'autre |

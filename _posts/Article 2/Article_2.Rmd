@@ -36,7 +36,7 @@ See in the article PDF file [Article with vocabulary words in evidence](https://
 Translation made with [Word Reference](https://www.wordreference.com/)
 
 | Word from the text | Synonym/Definition in English | French translation |
-| ------------------- | ------------------------------ |
+| ------------------- | ------------------------------ |----|
 | to decipher |to decode, to read | déchiffrer |
 | to unravel | to find, to discover, to slove | découvrir  |
 | to peer | to look, to examine | examiner |
