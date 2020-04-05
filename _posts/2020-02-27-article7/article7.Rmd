@@ -1,5 +1,5 @@
 ---
-title: "Coronavirus 'spike' protein just mapped, leading way to vaccine"
+title: "Article 7 : Coronavirus 'spike' protein just mapped, leading way to vaccine"
 author:
   - name: Louis SIMON
     url: https://louissimon862.github.io/louis-simon-blog/
