@@ -29,6 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * Family Guy (Season 1 to 15)
 * The End Of The F***ing World (Season 1)
 * Rick and Morty (Season 1 to 3)
+* Our planet (Season 1)
 
 ### September 2019
 * The Dead Don't Die
@@ -62,14 +63,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### March 2020
 * 1917
+* Mindhunter (Season 1 & 2)
 
 ### April 2020
 * Le Mans 66
-* Final Space
+* Final Space (Season 1 & 2)
+* Gotham (Season 1 to 4)
+* Ragnarok (Season 1)
 
 # Podcasts and videos in English
 
-### Regulary
+### Regularly
 * Podcasts by a videomakers band called Smosh (the podcasts are named Smoshcasts and are available on streamplatforms (like Apple Music and Spotify) or on Youtube )
 * Various videos and sketches on Youtube from american or briton videomakers
 
@@ -85,5 +89,5 @@ knitr::opts_chunk$set(echo = FALSE)
 # Applications in English
 
 ### September 2019
-* "BBC News" application so that I can regulary check the news
+* "BBC News" application so that I can regularly check the news
 * "Word Reference" application which is a dictionnary
